@@ -10,7 +10,7 @@
   "signin.button": "Đăng nhập",
   "_signin.button.comment": "VERB - người dùng đăng nhập vào ứng dụng",
   "signin.button.ariaLabel": "Đăng nhập",
-  "_signin.button.ariaLabel.comment": "Nhận xét về khả năng tiếp cận yêu cầu người dùng đăng nhập",
+  "_signin.button.ariaLabel.comment": "Nhận xét về yêu cầu người dùng đăng nhập",
   "createLandingPage.splash.altText": "Logo của trình khởi chạy",
   "_createLandingPage.splash.altText.comment": "Dòng chữ thay thế hình ảnh cho logo",
   "createLandingPage.create.meeting": "Tạo đường dẫn cuộc họp",
