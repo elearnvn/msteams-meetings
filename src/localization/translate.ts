@@ -54,6 +54,7 @@ const supportedLocalesAndFallbackMap: Record<string, string> = {
   'sr': 'sr-Latn-RS',
   'sr-latn-rs': 'sr-Latn-RS',
   'sv': 'sv-SE',
+  'vi': 'vi-VN',
   'sv-se': 'sv-SE',
   'th': 'th-TH',
   'th-th': 'th-TH',
